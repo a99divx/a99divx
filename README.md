@@ -28,7 +28,6 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Amazon Web Services
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Development Lead at <a href="https://id8media.com" target="_blank">ID8 Media</a>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
